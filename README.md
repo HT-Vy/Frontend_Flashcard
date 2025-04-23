@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Corporate UI Dashboard](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/corporate-ui-dashboard&text=Check%20Corporate%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#corporatedesign%20#html%20https://www.creative-tim.com/product/corporate-ui-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/corporate-ui-dashboard.svg)](https://github.com/creativetimofficial/corporate-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/corporate-ui-dashboard.svg)](https://github.com/creativetimofficial/corporate-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
@@ -172,3 +173,6 @@ Facebook: <https://www.facebook.com/CreativeTim>
 Dribbble: <https://dribbble.com/creativetim>
 
 Instagram: <https://instagram.com/creativetimofficial>
+=======
+# Frontend_Flashcard
+>>>>>>> 26ba6a313c514e3f953131a177be1cef26461e0f
